@@ -1,0 +1,44 @@
+{
+   
+   
+   "albumList": [
+      {
+         "title": "全X便XX",
+         "date":"202X/05/15",
+         "price": 500,
+         "address":"台北市大安區和平東路XXXXXXXX"
+      },
+      {
+         "title": "XX便X店",
+         "date":"2024/05/XX",
+         
+         "price": 500,
+         "address":"台北市大安區和平東路XXXXXXXX"
+            },
+      {
+         "title": "全家XX店",
+         "date":"2024/XX/15",
+         "price": 500,
+         "address":"台北市大安區和平東路XXXXXXXX"
+            },
+      {
+         "title": "全X便利X",
+         "date":"20XX/0X/15",
+         
+         "price": 500,
+         "address":"台北市大安區和平東路XXXXXXXX"
+            },
+      {
+         "title": "X家X利店",
+         "date":"20XX/0X/1X",
+         "price": 500,
+         
+         "address":"台北市大安區和平東路XXXXXXXX"
+      },
+      {
+         "title": "X家便X店",
+         "date":"X0XX/0X/1X",
+         "price": 500,
+         "address":"台北市大安區和平東路XXXXXXXX"
+      }
+]}
